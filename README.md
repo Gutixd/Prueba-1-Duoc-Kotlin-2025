@@ -14,12 +14,16 @@ Sistema modular para la gestión y cálculo de costos de envíos, desarrollado e
 ## Estructura del Proyecto
 📦 src/
 ├── 📄 BaseEnvio.kt # Clase base abstracta
+
 ├── 📄 EnvioNormal.kt # Implementación de envío normal
+
 ├── 📄 EnvioExpress.kt # Implementación de envío express
+
 ├── 📄 EstadoProcesamiento.kt # Estados del procesamiento (sealed class)
+
 └── 📄 Main.kt # Punto de entrada y ejemplos de uso
 
-text
+
 
 ## Tecnologías
 
